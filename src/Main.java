@@ -3,8 +3,5 @@
 
 public class Main {
     public static void main(String[] args) {
-        Worker obj=new Worker();
-        obj.workerInput();
-        obj.workerInfo();
     }
 }
